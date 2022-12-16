@@ -139,7 +139,7 @@ module.exports = {
     [
       "@vuepress/google-analytics",
       {
-        ga: "UA-252262972-1",
+        ga: "G-2FNM3K7KB5",
       },
     ],
     [
