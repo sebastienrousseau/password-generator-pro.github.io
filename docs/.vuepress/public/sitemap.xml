@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://password-generator.pro/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/about/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/archives/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/cd/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/chmod/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/chmod/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/chmod/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/clear/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/clear/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/clear/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/configuration/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/configuration/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/configuration/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/default/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/default/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/default/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/dig/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/dig/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/dig/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/du/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/du/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/du/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/editor/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/editor/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/editor/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/find/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/gcloud/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/gcloud/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/gcloud/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/git/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/git/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/git/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/gnu/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/gnu/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/gnu/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/heroku/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/heroku/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/heroku/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/interactive/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/jekyll/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/jekyll/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/jekyll/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/list/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/make/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/make/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/make/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/mkdir/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/mkdir/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/mkdir/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/npm/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/npm/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/npm/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/pnpm/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/pnpm/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/pnpm/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/ps/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/ps/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/ps/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/rsync/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/rsync/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/rsync/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/rust/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/rust/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/rust/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/subversion/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/subversion/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/subversion/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/sudo/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/sudo/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/sudo/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/tmux/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/tmux/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/tmux/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/update/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/uuid/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/uuid/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/uuid/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/aliases/wget/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/wget/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/wget/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/alias/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/alias/archives/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/alias/cd/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/chmod/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/chmod/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/chmod/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/clear/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/clear/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/clear/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/configuration/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/configuration/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/configuration/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/default/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/default/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/default/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/dig/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/dig/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/dig/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/du/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/du/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/du/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/editor/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/editor/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/editor/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/gcloud/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/gcloud/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/gcloud/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/liste/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/jekyll/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/jekyll/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/jekyll/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/make/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/make/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/make/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/mise-a-jour/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/mkdir/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/mkdir/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/mkdir/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/mode-interactif/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/npm/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/npm/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/npm/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/pnpm/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/pnpm/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/pnpm/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/ps/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/ps/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/ps/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/alias/recherche/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/rsync/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/rsync/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/rsync/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/rust/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/rust/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/rust/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/subversion/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/subversion/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/subversion/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/sudo/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/sudo/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/sudo/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/tmux/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/tmux/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/tmux/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/uuid/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/uuid/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/uuid/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/wget/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/wget/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/wget/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/apropos/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/heroku/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/heroku/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/heroku/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/gnu/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/gnu/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/gnu/" />
+  </url>
+  <url>
+    <loc>https://password-generator.pro/fr/aliases/git/</loc>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://password-generator.pro/aliases/git/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://password-generator.pro/fr/aliases/git/" />
+  </url>
+</urlset>

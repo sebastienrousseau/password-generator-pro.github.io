@@ -1,0 +1,9 @@
+export { enHead } from "./head/en";
+export { enNavbar } from "./nav/en";
+export { enSidebar } from "./sidebar/en";
+export { esHead } from "./head/es";
+export { esNavbar } from "./nav/es";
+export { esSidebar } from "./sidebar/es";
+export { frHead } from "./head/fr";
+export { frNavbar } from "./nav/fr";
+export { frSidebar } from "./sidebar/fr";
