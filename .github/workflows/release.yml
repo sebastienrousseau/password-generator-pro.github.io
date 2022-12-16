@@ -12,7 +12,7 @@ jobs:
         uses: jenkey2011/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TARGET_REPO: sebastienrousseau/dotfiles.github.io
+          TARGET_REPO: sebastienrousseau/password-generator-pro.github.io
           TARGET_BRANCH: gh-pages
           BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: docs/.vuepress/dist/
