@@ -1,9 +1,9 @@
-import { deHeaders, enHeaders, esHeaders, frHeaders } from "./config/head"; // Import English Headers for SEO
-import { deNavbar, enNavbar, esNavbar, frNavbar } from "./config/nav"; // Import English navbar
-import { deSidebar, enSidebar, esSidebar, frSidebar } from "./config/sidebar"; // Import English sidebar
+import { deHeaders, enHeaders, esHeaders, frHeaders } from './config/head' // Import English Headers for SEO
+import { deNavbar, enNavbar, esNavbar, frNavbar } from './config/nav' // Import English navbar
+import { deSidebar, enSidebar, esSidebar, frSidebar } from './config/sidebar' // Import English sidebar
 
 module.exports = {
-  base: "/",
+  base: '/',
   head: [
     [
       'script',
@@ -21,62 +21,58 @@ module.exports = {
     ],
   ],
   locales: {
-    "/": {
-      lang: "en-GB",
-      title: "Password Generator Pro",
-      description:
-        "A Fast, Simple And Secure Password Generator.",
+    '/': {
+      lang: 'en-GB',
+      title: 'Password Generator Pro',
+      description: 'A Fast, Simple And Secure Password Generator.',
     },
-    "/de/": {
-      lang: "de-DE", // German
-      title: "Password Generator Pro",
-      description:
-        "Ein schneller, einfacher und sicherer Passwort-Generator.",
+    '/de/': {
+      lang: 'de-DE', // German
+      title: 'Password Generator Pro',
+      description: 'Ein schneller, einfacher und sicherer Passwort-Generator.',
     },
-    "/es/": {
-      lang: "es-ES", // Spanish
-      title: "Password Generator Pro",
-      description:
-        "Un Generador De Contraseñas Rápido, Sencillo Y Seguro.",
+    '/es/': {
+      lang: 'es-ES', // Spanish
+      title: 'Password Generator Pro',
+      description: 'Un Generador De Contraseñas Rápido, Sencillo Y Seguro.',
     },
-    "/fr/": {
-      lang: "fr-FR", // French
-      title: "Password Generator Pro",
-      description:
-        "Un Générateur De Mots De Passe Rapide, Simple Et Sécurisé.",
+    '/fr/': {
+      lang: 'fr-FR', // French
+      title: 'Password Generator Pro',
+      description: 'Un Générateur De Mots De Passe Rapide, Simple Et Sécurisé.',
     },
   },
   // Enable evergreen browsers support
   evergreen: true,
   // Theme default color scheme
-  theme: "default-prefers-color-scheme",
+  theme: 'default-prefers-color-scheme',
   // Theme configuration
   themeConfig: {
     // Search bar configuration
     search: false,
     // Logo configuration
-    logo: "/password-generator-pro.webp",
+    logo: '/password-generator-pro.webp',
     // The GitHub repo path
-    repo: "sebastienrousseau/password-generator-pro.github.io",
+    repo: 'sebastienrousseau/password-generator-pro.github.io',
     // The label linking to the repo
-    repoLabel: "GitHub",
+    repoLabel: 'GitHub',
     // if your docs are not at the root of the repo:
-    docsDir: "docs",
+    docsDir: 'docs',
     // if your docs are in a specific branch (defaults to 'master'):
-    docsBranch: "main",
+    docsBranch: 'main',
     // defaults to false, set to true to enable
     editLinks: true,
     // locale for edit link text
     locales: {
-      "/": {
+      '/': {
         // text for the language dropdown
-        selectText: "Languages",
+        selectText: 'Languages',
         // Aria Label for locale in the dropdown
-        ariaLabel: "Languages",
+        ariaLabel: 'Languages',
         // label for this locale in the language dropdown
-        label: "English",
+        label: 'English',
         // Custom text for edit link. Defaults to "Edit this page"
-        editLinkText: "Edit this page on GitHub",
+        editLinkText: 'Edit this page on GitHub',
         // Headers for SEO
         head: enHeaders,
         // Custom navbar values
@@ -84,15 +80,15 @@ module.exports = {
         // Custom sidebar values
         sidebar: enSidebar,
       },
-      "/de/": {
+      '/de/': {
         // text for the language dropdown
-        selectText: "Sprachen",
+        selectText: 'Sprachen',
         // Aria Label for locale in the dropdown
-        ariaLabel: "Sprachen",
+        ariaLabel: 'Sprachen',
         // label for this locale in the language dropdown
-        label: "Deutsch",
+        label: 'Deutsch',
         // Custom text for edit link. Defaults to "Edit this page"
-        editLinkText: "Diese Seite auf GitHub bearbeiten",
+        editLinkText: 'Diese Seite auf GitHub bearbeiten',
         // Headers for SEO
         head: deHeaders,
         // Custom navbar values
@@ -100,15 +96,15 @@ module.exports = {
         // Custom sidebar values
         sidebar: deSidebar,
       },
-      "/es/": {
+      '/es/': {
         // text for the language dropdown
-        selectText: "Idiomas",
+        selectText: 'Idiomas',
         // Aria Label for locale in the dropdown
-        ariaLabel: "Idiomas",
+        ariaLabel: 'Idiomas',
         // label for this locale in the language dropdown
-        label: "Español",
+        label: 'Español',
         // Custom text for edit link. Defaults to "Edit this page"
-        editLinkText: "Editar esta página en GitHub",
+        editLinkText: 'Editar esta página en GitHub',
         // Headers for SEO
         head: esHeaders,
         // Custom navbar values
@@ -116,17 +112,17 @@ module.exports = {
         // Custom sidebar values
         sidebar: esSidebar,
       },
-      "/fr/": {
+      '/fr/': {
         // text for the language dropdown
-        selectText: "Langues",
+        selectText: 'Langues',
         // Aria Label for locale in the dropdown
-        ariaLabel: "Langues",
+        ariaLabel: 'Langues',
         // Headers for SEO
         head: frHeaders,
         // label for this locale in the language dropdown
-        label: "Français",
+        label: 'Français',
         // Custom text for edit link. Defaults to "Edit this page"
-        editLinkText: "Éditez cette page sur GitHub",
+        editLinkText: 'Éditez cette page sur GitHub',
         // Custom navbar values
         nav: frNavbar,
         // Custom sidebar values
@@ -134,7 +130,7 @@ module.exports = {
       },
     },
     chainWebpack: (config) => {
-      config.plugin("html").tap((args) => {
+      config.plugin('html').tap((args) => {
         args[0].minify = {
           minifyCSS: true,
           minifyJS: true,
@@ -146,44 +142,44 @@ module.exports = {
           removeAttributeQuotes: true,
           removeEmptyAttributes: true,
           removeStyleLinkTypeAttributes: true,
-        };
-        return args;
-      });
+        }
+        return args
+      })
     },
   },
   plugins: [
     [
-      "vuepress-plugin-sitemap",
+      'vuepress-plugin-sitemap',
       {
-        hostname: "https://password-generator.pro",
-        outFile: "sitemap.xml",
-        exclude: ["/404.html"],
+        hostname: 'https://password-generator.pro',
+        outFile: 'sitemap.xml',
+        exclude: ['/404.html'],
       },
     ],
     [
-      "@vuepress/pwa",
+      '@vuepress/pwa',
       {
         serviceWorker: true,
         updatePopup: true,
       },
     ],
-    ["vuepress-plugin-code-copy", true],
+    ['vuepress-plugin-code-copy', true],
     [
-      "html-webpack-plugin",
+      'html-webpack-plugin',
       {
         minify: {
+          collapseBooleanAttributes: true,
+          collapseWhitespace: true,
           minifyCSS: true,
           minifyJS: true,
           minifyURLs: true,
-          removeComments: true,
-          collapseWhitespace: true,
-          collapseBooleanAttributes: true,
-          removeScriptTypeAttributes: true,
           removeAttributeQuotes: true,
+          removeComments: true,
           removeEmptyAttributes: true,
+          removeScriptTypeAttributes: true,
           removeStyleLinkTypeAttributes: true,
         },
       },
     ],
   ],
-};
+}

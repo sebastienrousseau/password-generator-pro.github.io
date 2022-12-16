@@ -135,13 +135,13 @@ Dieses Projekt steht unter der [MIT-Lizenz][license-url]-Datei für Details.
 [Password Generator Pro][website-url] wurde von diesen Leuten und einer Reihe
 von großartigen [Mitwirkenden][contributors-url]
 
-| [![sr]][sr-url] |
-|:-----------------:|
-| [Sebastien Rousseau][sr-url]|
+|       [![sr]][sr-url]        |
+| :--------------------------: |
+| [Sebastien Rousseau][sr-url] |
 
 [code-of-conduct-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CODE-OF-CONDUCT.md
 [contributing-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CONTRIBUTING.md
-[contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors "Liste der Mitwirkendenw"
+[contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors 'Liste der Mitwirkendenw'
 [docs-url]: https://github.com/sebastienrousseau/password-generator-pro/tree/master/docs
 [github-url]: https://github.com/sebastienrousseau/password-generator-pro
 [issues-url]: https://github.com/sebastienrousseau/password-generator-pro/issues
@@ -149,5 +149,5 @@ von großartigen [Mitwirkenden][contributors-url]
 [releases-url]: https://github.com/sebastienrousseau/password-generator-pro/releases
 [semver-url]: http://semver.org/
 [sr-url]: https://github.com/sebastienrousseau
-[sr]: https://avatars0.githubusercontent.com/u/1394998?s=117 "Sebastien Rousseau"
+[sr]: https://avatars0.githubusercontent.com/u/1394998?s=117 'Sebastien Rousseau'
 [website-url]: https://password-generator.pro

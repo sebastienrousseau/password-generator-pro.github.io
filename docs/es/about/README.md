@@ -126,13 +126,13 @@ archivo para más detalles.
 [Password Generator Pro][website-url] está maravillosamente elaborado por
 estas personas y un montón de [colaboradores][contributors-url] increíbles
 
-| [![sr]][sr-url] |
-|:-----------------:|
-| [Sebastien Rousseau][sr-url]|
+|       [![sr]][sr-url]        |
+| :--------------------------: |
+| [Sebastien Rousseau][sr-url] |
 
 [code-of-conduct-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CODE-OF-CONDUCT.md
 [contributing-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CONTRIBUTING.md
-[contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors "List of contributors"
+[contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors 'List of contributors'
 [docs-url]: https://github.com/sebastienrousseau/password-generator-pro/tree/master/docs
 [github-url]: https://github.com/sebastienrousseau/password-generator-pro
 [issues-url]: https://github.com/sebastienrousseau/password-generator-pro/issues
@@ -140,5 +140,5 @@ estas personas y un montón de [colaboradores][contributors-url] increíbles
 [releases-url]: https://github.com/sebastienrousseau/password-generator-pro/releases
 [semver-url]: http://semver.org/
 [sr-url]: https://github.com/sebastienrousseau
-[sr]: https://avatars0.githubusercontent.com/u/1394998?s=117 "Sebastien Rousseau"
+[sr]: https://avatars0.githubusercontent.com/u/1394998?s=117 'Sebastien Rousseau'
 [website-url]: https://password-generator.pro

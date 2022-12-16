@@ -1,5 +1,5 @@
-import type { NavbarConfig } from "@vuepress/theme-default";
+import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const esNavbar: NavbarConfig = [
-  { text: "Sobre", link: "/es/about/", ariaLabel: "Sobre" },
-];
+  { text: 'Sobre', link: '/es/about/', ariaLabel: 'Sobre' },
+]

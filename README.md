@@ -8,9 +8,9 @@
 
 - This repository contains the source code of the Password Generator Pro Website
 - To learn more about the Password Generator Pro application, please visit the
-[official website][0]
+  [official website][0]
 - You can also download the latest version of Password Generator Pro from the
-[releases page][5] or by clicking on the download button below
+  [releases page][5] or by clicking on the download button below
 
 [![Password Generator Pro v0.0.1][download_button]][5]
 
@@ -39,5 +39,4 @@ A big thank you to all the awesome contributors of the
 [3]: https://raw.githubusercontent.com/sebastienrousseau/password-generator-pro/main/.github/badges/made-with-love.svg
 [4]: https://github.com/sebastienrousseau/password-generator-pro.github.io/graphs/contributors
 [5]: https://github.com/sebastienrousseau/password-generator-pro/releases
-
-[download_button]: https://github.com/sebastienrousseau/password-generator-pro.github.io/raw/main/.github/assets/button-secondary.svg "Download Password Generator Pro v0.0.1"
+[download_button]: https://github.com/sebastienrousseau/password-generator-pro.github.io/raw/main/.github/assets/button-secondary.svg 'Download Password Generator Pro v0.0.1'

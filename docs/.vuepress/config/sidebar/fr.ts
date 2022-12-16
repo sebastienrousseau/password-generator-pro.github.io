@@ -1,4 +1,4 @@
-import type { SidebarConfig } from "@vuepress/theme-default";
+import type { SidebarConfig } from '@vuepress/theme-default'
 
-import { about } from "../about/fr";
-export const frSidebar: SidebarConfig = [about];
+import { about } from '../about/fr'
+export const frSidebar: SidebarConfig = [about]

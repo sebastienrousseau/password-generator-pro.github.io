@@ -1,25 +1,25 @@
 {
-	"$schema": "https://json.schemastore.org/web-manifest-combined.json",
-	"background_color": "#000",
-	"description": "A Fast, Simple And Secure Password Generator.",
-	"display": "standalone",
-	"icons": [
-		{
-			"sizes": "192x192",
-			"src": "/icons/password-generator-pro-192x192.png",
-			"type": "image/png"
-		},
-		{
-			"sizes": "512x512",
-			"src": "/icons/password-generator-pro-512x512.png",
-			"type": "image/png"
-		}
-	],
-	"lang": "en_gb",
-	"name": "Password Generator Pro",
-	"orientation": "portrait-primary",
-	"scope": "https://password-generator.pro/",
-	"short_name": "Password Generator",
-	"start_url": "https://password-generator.pro/",
-	"theme_color": "#9e00a3"
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "background_color": "#000",
+  "description": "A Fast, Simple And Secure Password Generator.",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "/icons/password-generator-pro-192x192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "/icons/password-generator-pro-512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en_gb",
+  "name": "Password Generator Pro",
+  "orientation": "portrait-primary",
+  "scope": "https://password-generator.pro/",
+  "short_name": "Password Generator",
+  "start_url": "https://password-generator.pro/",
+  "theme_color": "#9e00a3"
 }

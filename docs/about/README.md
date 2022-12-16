@@ -109,9 +109,9 @@ There are also many ways in which you can participate in this project, for
 example:
 
 - [Submit bugs and feature requests][issues-url], and help us verify as they are
-checked in,
+  checked in,
 - Review the [documentation][docs-url] and make pull requests for anything from
-typos to additional and new content.
+  typos to additional and new content.
 
 Please read carefully through our
 [Contributing Guidelines][contributing-url]
@@ -126,13 +126,13 @@ This project is licensed under the [MIT License][license-url] file for details.
 [Password Generator Pro][website-url] is beautifully crafted by these people and a bunch of
 awesome [contributors][contributors-url]
 
-| [![sr]][sr-url] |
-|:-----------------:|
-| [Sebastien Rousseau][sr-url]|
+|       [![sr]][sr-url]        |
+| :--------------------------: |
+| [Sebastien Rousseau][sr-url] |
 
 [code-of-conduct-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CODE-OF-CONDUCT.md
 [contributing-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CONTRIBUTING.md
-[contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors "List of contributors"
+[contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors 'List of contributors'
 [docs-url]: https://github.com/sebastienrousseau/password-generator-pro/tree/master/docs
 [github-url]: https://github.com/sebastienrousseau/password-generator-pro
 [issues-url]: https://github.com/sebastienrousseau/password-generator-pro/issues
@@ -140,5 +140,5 @@ awesome [contributors][contributors-url]
 [releases-url]: https://github.com/sebastienrousseau/password-generator-pro/releases
 [semver-url]: http://semver.org/
 [sr-url]: https://github.com/sebastienrousseau
-[sr]: https://avatars0.githubusercontent.com/u/1394998?s=117 "Sebastien Rousseau"
+[sr]: https://avatars0.githubusercontent.com/u/1394998?s=117 'Sebastien Rousseau'
 [website-url]: https://password-generator.pro
