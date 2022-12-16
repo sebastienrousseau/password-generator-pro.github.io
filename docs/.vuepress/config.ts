@@ -1,6 +1,6 @@
-import { enHeaders, esHeaders, frHeaders } from "./config/head"; // Import English Headers for SEO
-import { enNavbar, esNavbar, frNavbar } from "./config/nav"; // Import English navbar
-import { enSidebar, esSidebar, frSidebar } from "./config/sidebar"; // Import English sidebar
+import { deHeaders, enHeaders, esHeaders, frHeaders } from "./config/head"; // Import English Headers for SEO
+import { deNavbar, enNavbar, esNavbar, frNavbar } from "./config/nav"; // Import English navbar
+import { deSidebar, enSidebar, esSidebar, frSidebar } from "./config/sidebar"; // Import English sidebar
 
 module.exports = {
   base: "/",
@@ -10,6 +10,12 @@ module.exports = {
       title: "Password Generator Pro",
       description:
         "A Fast, Simple And Secure Password Generator.",
+    },
+    "/de/": {
+      lang: "de-DE", // German
+      title: "Password Generator Pro",
+      description:
+        "Ein schneller, einfacher und sicherer Passwort-Generator.",
     },
     "/es/": {
       lang: "es-ES", // Spanish
@@ -61,6 +67,22 @@ module.exports = {
         nav: enNavbar,
         // Custom sidebar values
         sidebar: enSidebar,
+      },
+      "/de/": {
+        // text for the language dropdown
+        selectText: "Sprachen",
+        // Aria Label for locale in the dropdown
+        ariaLabel: "Sprachen",
+        // label for this locale in the language dropdown
+        label: "Deutsch",
+        // Custom text for edit link. Defaults to "Edit this page"
+        editLinkText: "Diese Seite auf GitHub bearbeiten",
+        // Headers for SEO
+        head: deHeaders,
+        // Custom navbar values
+        nav: deNavbar,
+        // Custom sidebar values
+        sidebar: deSidebar,
       },
       "/es/": {
         // text for the language dropdown

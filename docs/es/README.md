@@ -10,7 +10,7 @@ subtitle: Un generador de contraseñas rápido, sencillo y seguro
 tagline: Un generador de contraseñas rápido, sencillo y seguro
 title: Password Generator Pro
 actionText: Leer más →
-actionLink: /about/
+actionLink: /es/about/
 features:
   - title: Utilice una aplicación de confianza
     details: Gratis. Basado en código abierto. Funciona en macOS, Windows y Linux. Sin publicidad. Sin rastreo. No recoge datos.

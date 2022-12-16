@@ -10,7 +10,7 @@ subtitle: Un générateur de mots de passe rapide, simple et sécurisé
 tagline: Un générateur de mots de passe rapide, simple et sécurisé
 title: Password Generator Pro
 actionText: En savoir plus →
-actionLink: /about/
+actionLink: /fr/about/
 features:
   - title: Utilisez une application à laquelle vous pouvez faire confiance
     details: Gratuite. Construite sur une source ouverte. Fonctionne sur macOS, Windows et Linux. Pas de publicité. Pas de suivi. Pas de collecte de données.
