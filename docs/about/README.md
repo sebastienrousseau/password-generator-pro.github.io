@@ -25,7 +25,10 @@ meta:
 
 # Welcome to Password Generator Pro 👋
 
-![Banner for Password Generator Pro](../.vuepress/public/banner.svg)
+![Banner for Password Generator Pro](https://github.com/sebastienrousseau/password-generator-pro.github.io/raw/main/public/password-generator-pro.svg)
+
+[![Introduction][introduction_button]][github-url]
+[![Password Generator Pro v0.0.1][download_button]][releases-url]
 
 ## Introduction
 
@@ -134,6 +137,8 @@ awesome [contributors][contributors-url]
 [contributing-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/master/.github/CONTRIBUTING.md
 [contributors-url]: https://github.com/sebastienrousseau/password-generator-pro/graphs/contributors "List of contributors"
 [docs-url]: https://github.com/sebastienrousseau/password-generator-pro/tree/master/docs
+[download_button]: https://github.com/sebastienrousseau/password-generator-pro.github.io/raw/master/assets/button-secondary.svg "Download"
+[introduction_button]: https://github.com/sebastienrousseau/password-generator-pro.github.io/raw/master/assets/button-primary.svg "Introduction"
 [github-url]: https://github.com/sebastienrousseau/password-generator-pro
 [issues-url]: https://github.com/sebastienrousseau/password-generator-pro/issues
 [license-url]: https://github.com/sebastienrousseau/password-generator-pro/blob/main/COPYRIGHT

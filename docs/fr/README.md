@@ -13,9 +13,9 @@ actionText: En savoir plus →
 actionLink: /about/
 features:
   - title: Utilisez une application à laquelle vous pouvez faire confiance
-    details: Gratuit. Construite sur une source ouverte. Fonctionne sur macOS, Windows et Linux. Pas de publicité. Pas de suivi. Pas de collecte de données.
+    details: Gratuite. Construite sur une source ouverte. Fonctionne sur macOS, Windows et Linux. Pas de publicité. Pas de suivi. Pas de collecte de données.
   - title: Sécurisé dès la conception
-    details: Conçu pour créer des mots de passe performants, fiables et sécurisés. Aucune donnée n'est jamais envoyée dans le nuage.
+    details: Conçu pour créer des mots de passe performants, fiables et sécurisés. Aucune donnée n'est jamais envoyée dans le cloud.
   - title: Suffisamment intelligent pour être sécurisé
     details: Un algorithme de mot de passe intelligent améliore la force et le caractère aléatoire de vos mots de passe.
   - title: Facilement personnalisable
