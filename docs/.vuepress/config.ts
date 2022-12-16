@@ -1,6 +1,6 @@
-import { deHeaders, enHeaders, esHeaders, frHeaders } from './config/head' // Import English Headers for SEO
-import { deNavbar, enNavbar, esNavbar, frNavbar } from './config/nav' // Import English navbar
-import { deSidebar, enSidebar, esSidebar, frSidebar } from './config/sidebar' // Import English sidebar
+import { deHeaders, enHeaders, esHeaders, frHeaders } from './config/head'; // Import English Headers for SEO
+import { deNavbar, enNavbar, esNavbar, frNavbar } from './config/nav'; // Import English navbar
+import { deSidebar, enSidebar, esSidebar, frSidebar } from './config/sidebar'; // Import English sidebar
 
 module.exports = {
   base: '/',
@@ -132,15 +132,15 @@ module.exports = {
     chainWebpack: (config) => {
       config.plugin('html').tap((args) => {
         args[0].minify = {
+          collapseBooleanAttributes: true,
+          collapseWhitespace: true,
           minifyCSS: true,
           minifyJS: true,
           minifyURLs: true,
-          removeComments: true,
-          collapseWhitespace: true,
-          collapseBooleanAttributes: true,
-          removeScriptTypeAttributes: true,
           removeAttributeQuotes: true,
+          removeComments: true,
           removeEmptyAttributes: true,
+          removeScriptTypeAttributes: true,
           removeStyleLinkTypeAttributes: true,
         }
         return args
@@ -161,6 +161,17 @@ module.exports = {
       {
         serviceWorker: true,
         updatePopup: true,
+        updateIcon: true,
+        ignore: [
+          '/404.html',
+          '/offline.html',
+          '/de/404.html',
+          '/de/offline.html',
+          '/es/404.html',
+          '/es/offline.html',
+          '/fr/404.html',
+          '/fr/offline.html',
+        ],
       },
     ],
     ['vuepress-plugin-code-copy', true],

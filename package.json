@@ -29,7 +29,7 @@
 	"private": "true",
 	"license": "MIT",
 	"scripts": {
-		"build": "pnpm clean && vuepress build docs",
+		"build": "vuepress build docs",
 		"clean": "rimraf docs/.vuepress/.temp docs/.vuepress/.cache dist",
 		"deploy": "vuepress build && gh-pages -d .vuepress/dist",
 		"dev": "vuepress dev docs --debug",
