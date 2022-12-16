@@ -4,6 +4,22 @@ import { deSidebar, enSidebar, esSidebar, frSidebar } from "./config/sidebar"; /
 
 module.exports = {
   base: "/",
+  head: [
+    [
+      'script',
+      {
+        async: true,
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-2FNM3K7KB5',
+      },
+    ],
+    [
+      'script',
+      {},
+      [
+        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XXXXXXXXXX');",
+      ],
+    ],
+  ],
   locales: {
     "/": {
       lang: "en-GB",
@@ -136,12 +152,6 @@ module.exports = {
     },
   },
   plugins: [
-    [
-      "@vuepress/google-analytics",
-      {
-        ga: "G-2FNM3K7KB5",
-      },
-    ],
     [
       "vuepress-plugin-sitemap",
       {

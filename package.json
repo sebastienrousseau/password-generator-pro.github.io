@@ -7,7 +7,6 @@
 		"deploy": "vuepress build && gh-pages -d .vuepress/dist"
 	},
 	"devDependencies": {
-		"@vuepress/plugin-google-analytics": "^1.9.7",
 		"chalk": "^2.4.2",
 		"commander": "^2.20.3",
 		"esm": "^3.2.25",
