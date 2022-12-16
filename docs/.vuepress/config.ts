@@ -16,7 +16,7 @@ module.exports = {
       'script',
       {},
       [
-        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XXXXXXXXXX');",
+        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-2FNM3K7KB5', { 'anonymize_ip': true });",
       ],
     ],
   ],
