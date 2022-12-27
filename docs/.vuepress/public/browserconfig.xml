@@ -6,7 +6,7 @@
       <square150x150logo src="/icons/password-generator-pro-150x150.png" />
       <wide310x150logo src="/icons/password-generator-pro-310x150.png" />
       <square310x310logo src="/icons/password-generator-pro-310x310.png" />
-      <TileColor>#2F3A3E</TileColor>
+      <TileColor>#158eff</TileColor>
       <TileImage src="/icons/password-generator-pro-150x150.png" />
     </tile>
   </msapplication>

@@ -15,11 +15,12 @@
 			"type": "image/png"
 		}
 	],
+	"id": "/",
 	"lang": "en_gb",
 	"name": "Password Generator Pro",
 	"orientation": "portrait-primary",
-	"scope": "https://password-generator.pro/",
+	"scope": "/",
 	"short_name": "Password Generator",
-	"start_url": "https://password-generator.pro/",
-	"theme_color": "#9e00a3"
+	"start_url": "/",
+	"theme_color": "#158eff"
 }

@@ -54,9 +54,9 @@ merge it into the main repo.
   installs the required dependencies for building the the Password Generator
   Pro.
 - Edit files in the `src/` folder. Don't edit any files in the `dist/` folder,
-this is only for distribution builds, which are automated.
+  this is only for distribution builds, which are automated.
 - Run `npm run build` to trigger builds, and the new distribution files will
-be in the `dist/` folder ready to go.
+  be in the `dist/` folder ready to go.
 
 #### Fixing an Issue
 

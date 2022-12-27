@@ -13,7 +13,7 @@ provide) to help us better understand the nature and scope of the possible
 issue:
 
 - Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting,
-etc.)
+  etc.)
 - Full paths of source file(s) related to the manifestation of the issue
 - The location of the affected source code (tag/branch/commit or direct URL)
 - Any special configuration required to reproduce the issue

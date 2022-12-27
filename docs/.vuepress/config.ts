@@ -5,6 +5,7 @@ import { deSidebar, enSidebar, esSidebar, frSidebar } from './config/sidebar'; /
 module.exports = {
   base: '/',
   head: [
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
     [
       'script',
       {
