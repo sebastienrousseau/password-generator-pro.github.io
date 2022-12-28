@@ -116,7 +116,6 @@ $RECYCLE.BIN/
 .sonarlint
 .vscode
 Desktop.ini
-Icon
 Network Trash Folder
 Temporary Items
 Thumbs.db
@@ -128,4 +127,3 @@ yarn.lock
 Gemfile.lock
 tsconfig.tsbuildinfo
 pnpm-lock.yaml
-Icon?
