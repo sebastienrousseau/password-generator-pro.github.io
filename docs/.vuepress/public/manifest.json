@@ -1,8 +1,33 @@
 {
 	"$schema": "https://json.schemastore.org/web-manifest-combined.json",
-	"background_color": "#000",
+	"author": "Sebastien Rousseau",
+	"background_color": "#25272a",
+	"commands": {
+		"_execute_browser_action": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+E",
+				"linux": "Alt+Shift+E",
+				"mac": "Command+Shift+E",
+				"windows": "Alt+Shift+E"
+			}
+		},
+		"toggle-feature": {
+			"description": "Enable/disable the extension",
+			"suggested_key": {
+				"default": "Ctrl+Shift+E",
+				"mac": "Command+Shift+E"
+			}
+		}
+	},
+	"content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+	"default_locale": "en",
 	"description": "A Fast, Simple And Secure Password Generator.",
+	"developer": {
+		"name": "Sebastien Rousseau",
+		"url": "https://github.com/sebastienrousseau"
+	},
 	"display": "standalone",
+	"homepage_url": "https://password-generator.pro/",
 	"icons": [
 		{
 			"sizes": "192x192",
@@ -15,12 +40,15 @@
 			"type": "image/png"
 		}
 	],
-	"id": "/",
+	"id": "/index.html",
+	"incognito": "not_allowed",
 	"lang": "en_gb",
 	"name": "Password Generator Pro",
+	"offline_enabled": true,
 	"orientation": "portrait-primary",
-	"scope": "/",
-	"short_name": "Password Generator",
-	"start_url": "/",
-	"theme_color": "#158eff"
+	"scope": "/index.html",
+	"short_name": "PassGenPro",
+	"start_url": "/index.html",
+	"theme_color": "#158eff",
+	"version": "1.0.0"
 }

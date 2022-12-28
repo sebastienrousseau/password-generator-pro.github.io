@@ -1,12 +1,10 @@
-export { deHead } from './head/de'
-export { enHead } from './head/en'
-export { esHead } from './head/es'
-export { frHead } from './head/fr'
-export { deNavbar } from './nav/de'
-export { enNavbar } from './nav/en'
-export { esNavbar } from './nav/es'
-export { frNavbar } from './nav/fr'
-export { deSidebar } from './sidebar/de'
-export { enSidebar } from './sidebar/en'
-export { esSidebar } from './sidebar/es'
-export { frSidebar } from './sidebar/fr'
+export { headers } from './head'; // Headers
+export { deNavbar } from './nav/de'; // Navbar for German
+export { enNavbar } from './nav/en'; // Navbar for English
+export { esNavbar } from './nav/es'; // Navbar for Spanish
+export { frNavbar } from './nav/fr'; // Navbar for French
+export { deSidebar } from './sidebar/de'; // Sidebar for German
+export { enSidebar } from './sidebar/en'; // Sidebar for English
+export { esSidebar } from './sidebar/es'; // Sidebar for Spanish
+export { frSidebar } from './sidebar/fr'; // Sidebar for French
+

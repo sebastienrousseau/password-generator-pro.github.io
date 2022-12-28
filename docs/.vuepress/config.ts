@@ -1,26 +1,10 @@
-import { deHeaders, enHeaders, esHeaders, frHeaders } from './config/head'; // Import English Headers for SEO
+import { headers } from './config/head'; // Import headers
 import { deNavbar, enNavbar, esNavbar, frNavbar } from './config/nav'; // Import English navbar
 import { deSidebar, enSidebar, esSidebar, frSidebar } from './config/sidebar'; // Import English sidebar
 
 module.exports = {
   base: '/',
-  head: [
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    [
-      'script',
-      {
-        async: true,
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-2FNM3K7KB5',
-      },
-    ],
-    [
-      'script',
-      {},
-      [
-        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-2FNM3K7KB5', { 'anonymize_ip': true });",
-      ],
-    ],
-  ],
+  head: headers,
   locales: {
     '/': {
       lang: 'en-GB',
@@ -74,8 +58,6 @@ module.exports = {
         label: 'English',
         // Custom text for edit link. Defaults to "Edit this page"
         editLinkText: 'Edit this page on GitHub',
-        // Headers for SEO
-        head: enHeaders,
         // Custom navbar values
         nav: enNavbar,
         // Custom sidebar values
@@ -90,8 +72,6 @@ module.exports = {
         label: 'Deutsch',
         // Custom text for edit link. Defaults to "Edit this page"
         editLinkText: 'Diese Seite auf GitHub bearbeiten',
-        // Headers for SEO
-        head: deHeaders,
         // Custom navbar values
         nav: deNavbar,
         // Custom sidebar values
@@ -106,8 +86,6 @@ module.exports = {
         label: 'Español',
         // Custom text for edit link. Defaults to "Edit this page"
         editLinkText: 'Editar esta página en GitHub',
-        // Headers for SEO
-        head: esHeaders,
         // Custom navbar values
         nav: esNavbar,
         // Custom sidebar values
@@ -118,8 +96,6 @@ module.exports = {
         selectText: 'Langues',
         // Aria Label for locale in the dropdown
         ariaLabel: 'Langues',
-        // Headers for SEO
-        head: frHeaders,
         // label for this locale in the language dropdown
         label: 'Français',
         // Custom text for edit link. Defaults to "Edit this page"
