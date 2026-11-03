@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://password-generator.pro/sitemap.xml
